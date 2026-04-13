@@ -39,6 +39,8 @@ This ensures fairness and eliminates the need for centralized reward management.
 **Contract ID:**
 `CCRTQH3GWWVOV2LJDRZJROTXIDZVMX4D4LWGD2FUY5HKBFCB2MXG5JCE`
 https://stellar.expert/explorer/testnet/contract/CCRTQH3GWWVOV2LJDRZJROTXIDZVMX4D4LWGD2FUY5HKBFCB2MXG5JCE
+https://stellar.expert/explorer/testnet/contract/CCRTQH3GWWVOV2LJDRZJROTXIDZVMX4D4LWGD2FUY5HKBFCB2MXG5JCE
+
 
 ---
 
